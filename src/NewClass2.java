@@ -17,7 +17,7 @@ public class NewClass2 {
 		// i have been always hard working and never was dependent on someone. The minute i depend on someone, I get a hard clap on my face. 
 		// so never depende on human beind and be dependent on your god
 		
-		// it was nice practice 
+		// it was nice practice ver nice job
 	}
 
 }
