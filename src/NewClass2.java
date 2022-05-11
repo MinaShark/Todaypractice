@@ -13,6 +13,7 @@ public class NewClass2 {
 		
 		// i am happy it worked and hard work paid off
 		
+		// i have learend to work hard and be independent and never depend on someone
 		
 	}
 
