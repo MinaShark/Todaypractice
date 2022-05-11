@@ -8,6 +8,7 @@ public class TodayGitProject {
 		int c = a+b;
 		System.out.println(c);
 		System.out.println(a-b);
+		// this is for practice
 		
 		
 		
