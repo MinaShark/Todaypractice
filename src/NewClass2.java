@@ -8,6 +8,8 @@ public class NewClass2 {
 		 * nothing works
 		 */
 		
+		
+		// it finaly worked
 	}
 
 }
