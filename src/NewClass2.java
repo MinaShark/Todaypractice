@@ -19,6 +19,7 @@ public class NewClass2 {
 		
 		// it was nice practice ver nice job
 		// yesterday i worked on deleting and adding text in this class. 
+		// i saved my work
 	}
 
 }
