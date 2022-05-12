@@ -19,6 +19,9 @@ public class NewClass2 {
 		
 		// it was nice practice ver nice job
 		// yesterday i worked writing text on this class
+		
+		// I have added few branch here. So when you add new text to the repositry , pay attention 
+		// in which repsotry to changes accure, select the right branch
 	}
 
 }
