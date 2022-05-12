@@ -18,6 +18,7 @@ public class NewClass2 {
 		// so never depende on human beind and be dependent on your god
 		
 		// it was nice practice ver nice job
+		// yesterday i worked on deleting and adding text in this class
 	}
 
 }
